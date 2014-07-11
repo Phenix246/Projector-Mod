@@ -1,0 +1,6 @@
+#CreativeTabs
+itemGroup.TabsProjectorMod=Projector Mod
+
+#Light Machine
+tile.emiter.name=Light Emiter
+tile.rransmitter.name=Light Transmitter
